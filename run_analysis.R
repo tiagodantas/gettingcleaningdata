@@ -1,5 +1,4 @@
 # Project
-setwd("~/Desktop/Doutorado/Data science specialization")
 
 
 
