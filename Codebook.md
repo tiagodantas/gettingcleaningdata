@@ -3,7 +3,7 @@ Codebook
 
 This is a Codebook that explains the content of the tidy data set. 
 
-The data set has 67 columns where the first is refers to the activites performed by the volunteers of the study and the other columns refers to each of the subjects divided in two measures: Mean and Standard Devation.
+The data set has 67 columns where the first refers to the activites performed by the volunteers of the study and the other columns refers to each of the subjects divided in two measures: Mean and Standard Devation.
 
 The variable description is shown below:
 
